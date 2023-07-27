@@ -11,7 +11,7 @@ Este repositorio contiene mi solución al desafío de creación de un proyecto n
 
 1. Clonar este repositorio en tu máquina local.
 2. Ejecutar `rails s` para instalar las dependencias.
-2. Ejecutar `bundle exec guard` en una nueva terminal para activar el auto recarga en RoR.
+2. Ejecutar `bundle exec guard` en una nueva terminal para activar la auto recarga en RoR.
 
 ## Uso
 
