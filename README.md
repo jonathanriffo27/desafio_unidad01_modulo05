@@ -1,4 +1,4 @@
-# Desafío de creación de un proyecto nuevo en Rails
+# 🖥️ Desafío de creación de un proyecto nuevo en Rails
 
 Este repositorio contiene mi solución al desafío de creación de un proyecto nuevo en Rails. La aplicación es un portafolio que muestra mis desarrollos y desafíos implementados en Rails.
 
